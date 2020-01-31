@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
     /* border: 1px solid red ; */
 }
 
@@ -197,6 +198,7 @@ footer .social-icons {
 
 footer i {
     margin-right: 15px;
+     overflow: hidden !important;
 }
 
 footer a {
